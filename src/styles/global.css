@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primaryBlue: #007e95;
+  --secondaryBlue: #005f6f;
+  --thirdBlue: #58c2d5;
+  --primaryOrange: #ff832b;
+  --secondaryOrange: #c96318;
+  --primaryGray: #eeee;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+.pointer {
+  cursor: pointer;
+}
